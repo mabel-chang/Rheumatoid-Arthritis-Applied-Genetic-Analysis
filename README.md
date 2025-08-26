@@ -1,2 +1,1 @@
-# BS859
-Applied Genetic Analysis (S24)
+# Applied Genetic Analysis BS859 (S24)
