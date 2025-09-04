@@ -73,6 +73,7 @@ Data preprocessing for RA, Body Mass Index (BMI), and smoking data was performed
 
 ## Acknowledgements
 Data from:
+
   North American Rheumatoid Arthritis Consortium (NARAC) dataset (subject to data access restrictions)
 
 ## Author
