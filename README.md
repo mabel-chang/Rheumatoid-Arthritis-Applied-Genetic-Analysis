@@ -72,9 +72,8 @@ Data preprocessing for RA, Body Mass Index (BMI), and smoking data was performed
 * Result: Significant but biologically negligible effects of smoking on RA risk, inconsistent with epidemiological expectations
 
 ## Acknowledgements
-Data from:
-
-  North American Rheumatoid Arthritis Consortium (NARAC) dataset (subject to data access restrictions)
+* Data from:
+    Bridges, S.L. The North American Rheumatoid Arthritis Consortium. Arthritis Res Ther 2, 0012 (2000). https://doi.org/10.1186/ar-2000-2-webreport0012
 
 ## Author
 Mabel Chang
