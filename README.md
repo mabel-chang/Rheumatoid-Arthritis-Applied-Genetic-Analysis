@@ -79,4 +79,4 @@ Data preprocessing for RA, Body Mass Index (BMI), and smoking data was performed
 ## Author
 Mabel Chang
 
-Developed as the final project for BF589: Applied Genetic Analysis at Boston University (S24)
+Developed as the final project for BF589: Applied Genetic Analysis at Boston University (S24), instructed by Dr. Kathryn Lunetta
